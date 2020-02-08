@@ -1,0 +1,10 @@
+//var url = 'https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername=pewdiepie&fields=items/statistics/subscriberCount&key='+apiKey;
+//https://www.googleapis.com/youtube/v3/search?part=snippet&q=swimming&type=video&key=AIzaSyDOpwvVXse4m3LSZlOYO6Ey6puHzjQqSBM
+//https://developers.google.com/youtube/v3/docs/search/list?apix_params=%7B%22part%22%3A%22truc%20tiep%20game%22%7D
+https://stackoverflow.com/questions/26199933/youtube-api-3-0-search-videos-and-get-video-statistics-at-single-request
+https://thedebuggers.com/search-youtube-videos-using-youtube-api3/
+https://dev.to/aveb/making-your-first-get-request-to-youtube-search-api-4c2f
+https://phppot.com/php/search-videos-by-keyword-using-php-youtube-data-api/
+https://thedebuggers.com/search-youtube-videos-using-youtube-api3/
+
+https://levelup.gitconnected.com/how-to-use-background-script-to-fetch-data-in-chrome-extension-ef9d7f69625d
